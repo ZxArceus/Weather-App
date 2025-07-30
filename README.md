@@ -14,9 +14,10 @@ A simple Android weather application that fetches and displays real-time weather
 ## 📱 Screenshots
 
 ### 🔍 Search and Result Page
-![Search Screen](screenshots/ss1.jpeg)
-![Search Screen](screenshots/ss2.jpeg)
-![Search Screen](screenshots/ss3.jpeg)
+
+<img src="screenshots/ss1.jpeg" width="400"/>
+<img src="screenshots/ss2.jpeg" width="400"/>
+<img src="screenshots/ss3.jpeg" width="400"/>
 
 
 
